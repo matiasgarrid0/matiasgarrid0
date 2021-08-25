@@ -1,6 +1,6 @@
 # Welcome
 
-
+![](https://github.com/matiasgarrid0/matiasgarrid0/blob/main/Web-Development.jpg?raw=true)
 
 - 👋 Hi, I’m Matías Garrido, Web developer Full-Stack 💻
 - I’m from Argentina 
@@ -9,6 +9,7 @@
 - Senior Technician in Software Development in Manuel Belgrano Institute(2nd year)
 - Web developer Full-Stack in SoyHenry!
 ## Stack
+
 - React, Redux, JavaScript, Node.js, PostgreSQL, sequelize, nmp, Git, GitHub, HTML, CSS, Express.js
 # Contact Me:
 ### 📧 Email:

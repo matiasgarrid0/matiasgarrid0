@@ -3,7 +3,7 @@
 ![](https://github.com/matiasgarrid0/matiasgarrid0/blob/main/Web-Development.jpg?raw=true)
 - 👋 Hi, I’m Matías Garrido, Web developer Full-Stack 💻
 - I’m from Argentina 
-- I love web development, creat apps and diferent functionalities for my websites. I really like to learn more and more abaut all the new and best technologies in the wonderful world of programming.
+- I love web development, create apps and diferent functionalities for my websites. I really like to learn more and more abaut all the new and best technologies in the wonderful world of programming.
 ## 📖 What am I studying? 
 - Senior Technician in Software Development in Manuel Belgrano Institute(2nd year)
 - Web developer Full-Stack in SoyHenry!

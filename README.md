@@ -13,7 +13,7 @@
 # Contact Me:
 ### 📧 Email:
 - matias17garrido@gmail.com
-### LinkedIn:
+### 🟦 LinkedIn:
 - [LinkedIn](https://www.linkedin.com/in/matias-garrido-040923190/)
 
 

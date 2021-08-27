@@ -14,7 +14,7 @@
 ### 📧 Email:
 - matias17garrido@gmail.com
 ### 🟦 LinkedIn:
-- [LinkedIn]https://www.linkedin.com/in/matias-garridodev/)
+- [LinkedIn](https://www.linkedin.com/in/matias-garridodev/)
 
 
 
